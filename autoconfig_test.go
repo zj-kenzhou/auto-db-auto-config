@@ -9,7 +9,10 @@ import (
 func TestDatasourceAutoConfig(t *testing.T) {
 	db := datasource.Db()
 	db.ToSQL(func(tx *gorm.DB) *gorm.DB {
-		tx.Table("test").Rows()
+		_, err := tx.Table("test").Rows()
+		if err != nil {
+			t.Error(err)
+		}
 		return tx
 	})
 }
