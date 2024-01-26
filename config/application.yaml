@@ -1,0 +1,13 @@
+datasource:
+  primary:
+    type: mysql
+    host: 127.0.0.1:3306
+    username: root
+    password: root
+    log-level: 4
+    dbname: test
+    max-idle-conns: 1
+    max-open-conns: 3
+    conn-max-idle-time: 1
+    conn-max-lifetime: 2
+    auto-migrate: true
