@@ -1,4 +1,4 @@
-module auto-db-auto-config
+module github.com/zj-kenzhou/auto-db-auto-config
 
 go 1.18
 
