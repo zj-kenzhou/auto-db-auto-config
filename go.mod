@@ -3,7 +3,7 @@ module github.com/zj-kenzhou/auto-db-auto-config
 go 1.18
 
 require (
-	github.com/zj-kenzhou/auto-db v1.1.2
+	github.com/zj-kenzhou/auto-db v1.1.4
 	github.com/zj-kenzhou/fast-config v1.1.1
 	gorm.io/gorm v1.25.5
 )
@@ -31,7 +31,7 @@ require (
 	github.com/spf13/viper v1.18.2 // indirect
 	github.com/subosito/gotenv v1.6.0 // indirect
 	github.com/thoas/go-funk v0.9.3 // indirect
-	github.com/zj-kenzhou/go-col v1.1.2 // indirect
+	github.com/zj-kenzhou/go-col v1.1.3 // indirect
 	github.com/zj-kenzhou/gorm-oracle-ora v1.1.1 // indirect
 	go.uber.org/atomic v1.9.0 // indirect
 	go.uber.org/multierr v1.9.0 // indirect

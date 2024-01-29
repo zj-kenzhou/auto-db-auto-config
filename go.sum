@@ -107,12 +107,12 @@ github.com/subosito/gotenv v1.6.0/go.mod h1:Dk4QP5c2W3ibzajGcXpNraDfq2IrhjMIvMSW
 github.com/thoas/go-funk v0.9.3 h1:7+nAEx3kn5ZJcnDm2Bh23N2yOtweO14bi//dvRtgLpw=
 github.com/thoas/go-funk v0.9.3/go.mod h1:+IWnUfUmFO1+WVYQWQtIJHeRRdaIyyYglZN7xzUPe4Q=
 github.com/yuin/goldmark v1.4.13/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5taEt/CY=
-github.com/zj-kenzhou/auto-db v1.1.2 h1:lp0WYNcEbvwyrF1I/A6t5F2w22Gqso4Zaaw38TEzEog=
-github.com/zj-kenzhou/auto-db v1.1.2/go.mod h1:hG6l1oxNNqHNxO1UGcjIZP3YPJ305fi+dFyxELJMQs8=
+github.com/zj-kenzhou/auto-db v1.1.4 h1:Nnzgj9KMu1qri9xQSiqWYCF0OJDoVzI9W8qloCw4ayQ=
+github.com/zj-kenzhou/auto-db v1.1.4/go.mod h1:UQmAUn0VbZWlEwXrdT6fCuqe/HKrnm4WRSW2vyBbMcM=
 github.com/zj-kenzhou/fast-config v1.1.1 h1:siZJLLvJW19/oTuHlNF2nai6vCwUcBLVtJXlyh3QDOI=
 github.com/zj-kenzhou/fast-config v1.1.1/go.mod h1:jOjoKQFRY1n9h2WVOpJ/NzV1tWkRYThXCXkPxvtgt4U=
-github.com/zj-kenzhou/go-col v1.1.2 h1:zXEaTjQDdW+gM1KCdH+5kU2vGLyQnbsCj9XfzxbgUjk=
-github.com/zj-kenzhou/go-col v1.1.2/go.mod h1:0nliPw5bhWELRBeIbFNP6Q8U7B+NU57r9j88R+I8D4k=
+github.com/zj-kenzhou/go-col v1.1.3 h1:LrD82jdCSDho7OiuWhGP9lzisRkMz8zsSdwyagptSfU=
+github.com/zj-kenzhou/go-col v1.1.3/go.mod h1:0nliPw5bhWELRBeIbFNP6Q8U7B+NU57r9j88R+I8D4k=
 github.com/zj-kenzhou/gorm-oracle-ora v1.1.1 h1:djVy5tUh81IHBQKBtFroxvslM18TJhhdhGtw3FKlIR0=
 github.com/zj-kenzhou/gorm-oracle-ora v1.1.1/go.mod h1:TzYSpI6qkRjp0DrzwCD12P23iF6KIVLQDRSazT8kseY=
 go.uber.org/atomic v1.9.0 h1:ECmE8Bn/WFTYwEW/bpKD3M8VtR/zQVbavAoalC1PYyE=
